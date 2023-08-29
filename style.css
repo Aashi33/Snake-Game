@@ -1,0 +1,55 @@
+/* Write CSS Here */
+body {
+    text-align: center;
+    background-size: cover;
+}
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(239, 244, 239);
+    text-align: center;
+    
+}
+
+.heading button{
+    float:right;
+    border: 1px solid white;
+    background-color: #32a858;
+}
+
+#restart{
+    font-size: 18px;
+    background-color: #e2f777;
+    color: black;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+.heading 
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h1{
+    display:inline;
+    line-height: 2px;
+    color: #32a858;
+}
+
+h3{
+    height: 2;
+    margin: 0px;
+
+}
+#board{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #e2f777;
+}
